@@ -254,7 +254,7 @@ function openNav(movie) {
           if(site == 'YouTube'){
               
             embed.push(`
-              <iframe width="150" height="300" src="https://v2.vidsrc.me/embed/${id}" title="${name}" class="embed hide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe width="300" height="150" src="https://v2.vidsrc.me/embed/${id}" title="${name}" class="embed hide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           
           `)
           }
