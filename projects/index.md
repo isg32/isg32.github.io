@@ -44,7 +44,7 @@ URL : [ BASHBITCH ](/projects/bashbitch/)
 
 <u> My custom Android GSIs </u>
 
-URL : [TELEGRAM CHANNEL](https://t.me/semisapeolscgsi)
+URL : [SOURCE FORGE SERVER](https://sourceforge.net/u/gajjar01/profile/)
 
     Do i really need to tell you what it is?
 
