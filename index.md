@@ -1,18 +1,18 @@
 # Sapan Gajjar
 
-
-> “  The world is based on binary, ask why ? because the-maybe-in yes and no, it complicate things.”
-
-
-
-<div class="pull-right">
-<form><input type="text" name="search" value="" id="id_search" placeholder="🔍 Site Search [Not working] " autofocus />
-</form></div>
-
 ![](https://github.com/isg32/isg32.github.io/blob/main/files/avatar.png)
 
 # Hello!
-🔬 I'm isg32 (A.K.A. Sapan Gajjar) tiny developer from India-Ahmedabad.
+🔬 Summary: I'm isg32 (A.K.A. Sapan Gajjar) tiny developer from India-Ahmedabad.
+
+## Status
+
+- 🔭 I’m currently working on [Flutter + IoT](https://github.com/isg32/FlutterIoT_repo)
+- 🌱 I’m currently learning **Flutter, Shell, Machine Learning, AI**
+- 👨‍💻 All of my projects are available at [https://isg32.github.io/projects/](https://isg32.github.io/projects/)
+- 📝 I sometimes write articles on [https://isg32.github.io/content/blog.html](https://isg32.github.io/content/blog.html)
+- 📫 How to reach me **sapangajjar101105@gmail.com**
+
 
 ## Achievements or Main Projects
 
@@ -26,16 +26,6 @@
 | ![image](https://github.com/isg32/isg32.github.io/assets/95901240/3443f785-6564-4e6a-8ef3-88d1dda24c21) |  Vid-Src CLI Program for [Python](https://github.com/isg32/vidsrc) and [shell](https://github.com/isg32/vidsrc-shell), its initial build of the above website. |
 | ![](https://github.com/isg32/isg32.github.io/blob/main/files/Pasted%20image%2020231112193835.png) |  [To-Stream](https://github.com/isg32/torestream), a torrent streaming service for shell, with search&play available. |
 
-
-## Status
-
-- 🔭 I’m currently working on [Flutter + IoT](https://github.com/isg32/FlutterIoT_repo)
-- 🌱 I’m currently learning **Flutter, Shell, Machine Learning, AI**
-- 👨‍💻 All of my projects are available at [https://isg32.github.io/projects/](https://isg32.github.io/projects/)
-- 📝 I sometimes write articles on [https://isg32.github.io/content/blog.html](https://isg32.github.io/content/blog.html)
-- 📫 How to reach me **sapangajjar101105@gmail.com**
-
-![](https://komarev.com/ghpvc/?username=isg32&color=grey)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
