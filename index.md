@@ -1,14 +1,16 @@
+# Sapan Gajjar
+
 
 > “  The world is based on binary, ask why ? because the-maybe-in yes and no, it complicate things.”
 
 
-<hr>
 
 <div class="pull-right">
 <form><input type="text" name="search" value="" id="id_search" placeholder="🔍 Site Search [Not working] " autofocus />
 </form></div>
 
-![[avatar.png]]
+![](https://github.com/isg32/isg32.github.io/blob/main/files/avatar.png)
+
 # Hello!
 🔬 I'm isg32 (A.K.A. Sapan Gajjar) tiny developer from India-Ahmedabad.
 
@@ -17,12 +19,13 @@
 
 | #Achivements  |  #Changelog!? |
 |-------------------------|-------------------------| 
-| ![[Sapan Gajjar - SSIP 2023 Participant Certificate .pdf]] |   SSIP Hackathon 2023 Participation During Diploma Last year - 5th Semister, Coudn't make it to the finals Due to Lack of experience in team work and Having much more capable competitors, Hopefully planning to participate again while in degree.  |
-| ![[cumyui.png]] |  [MYUi Firmware Port/s](https://cumyui.github.io), for Moto G40f/60 which is Motorola's Custom software. |
-|![[Pasted image 20231112193000.png]]| [Personal Website](https://isg32.github.io/index.html), that I have made as My first big achievement in Coding, Sadly it's Changed now to this page |
-|![[Pasted image 20231112193540.png]]| [Stream-teax2](https://isg32.github.io/projects/streamteax2/), a pir@cy website that is supposedly legal ;)|
-| https://user-images.githubusercontent.com/95901240/189190545-e9a408f3-23d3-48fb-9e0c-3ffdaa5c894e.mp4 |  Vid-Src CLI Program for [Python](https://github.com/isg32/vidsrc) and [shell](https://github.com/isg32/vidsrc-shell), its initial build of the above website. |
-| ![[Pasted image 20231112193835.png]]|  [To-Stream](https://github.com/isg32/torestream), a torrent streaming service for shell, with search&play available. |
+| ![](https://github.com/isg32/isg32.github.io/blob/main/files/Sapan%20Gajjar%20-%20SSIP%202023%20Participant%20Certificate%20.jpg) |   [SSIP Hackathon 2023](https://github.com/isg32/isg32.github.io/blob/main/files/Sapan%20Gajjar%20-%20SSIP%202023%20Participant%20Certificate%20.pdf) Participation During Diploma Last year - 5th Semister, Coudn't make it to the finals Due to Lack of experience in team work and Having much more capable competitors, Hopefully planning to participate again while in degree.  |
+| ![](https://github.com/isg32/isg32.github.io/blob/main/files/cumyui.png) |  [MYUi Firmware Port/s](https://cumyui.github.io), for Moto G40f/60 which is Motorola's Custom software. |
+|![](https://github.com/isg32/isg32.github.io/blob/main/files/Pasted%20image%2020231112193000.png)| [Personal Website](https://isg32.github.io/index.html), that I have made as My first big achievement in Coding, Sadly it's Changed now to this page |
+|![](https://github.com/isg32/isg32.github.io/blob/main/files/Pasted%20image%2020231112193540.png)| [Stream-teax2](https://isg32.github.io/projects/streamteax2/), a pir@cy website that is supposedly legal ;)|
+| ![image](https://github.com/isg32/isg32.github.io/assets/95901240/3443f785-6564-4e6a-8ef3-88d1dda24c21) |  Vid-Src CLI Program for [Python](https://github.com/isg32/vidsrc) and [shell](https://github.com/isg32/vidsrc-shell), its initial build of the above website. |
+| ![](https://github.com/isg32/isg32.github.io/blob/main/files/Pasted%20image%2020231112193835.png) |  [To-Stream](https://github.com/isg32/torestream), a torrent streaming service for shell, with search&play available. |
+
 
 ## Status
 
