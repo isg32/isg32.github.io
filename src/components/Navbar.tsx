@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react'
-import isglogo from '../assets/logo/logo.png'
 import '../App.css'
 
 function Navbar() {  
