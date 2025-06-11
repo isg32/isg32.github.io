@@ -1,0 +1,8 @@
+{
+    "date": "June 11th, 2025",
+    "title": "How to Solve 3 books of physics, 4 books of chemestry, and 5 books of mathematics, are arranged in a shelf problem.",
+    "image": "https://via.placeholder.com/600x300",
+    "body": "Question: 3 books of physics, 4 books of chemestry, and 5 books of mathematics, are arranged in a shelf.\nFind the probability that No physics book are together.\n\nAns: Total number of arrangements = 12!12!\nArrangements where no Physics books are together:\nStep 1: Arrange the non-Physics books first (Chemistry + Mathematics)\n\nThere are 4+5=94+5=9 non-Physics books.\n\nNumber of ways to arrange these = 9!9!\nStep 2: Place the 3 Physics books in the gaps between these 9 books:\n\nThere are 10 gaps (think: _ B _ B _ B _ ... _ B _).\n\nWe need to select 3 gaps out of 10 to place Physics books → (10! / 3!) ways.\n\nPhysics books can also be arranged among themselves → 3!3! ways.\nSo, favourable arrangements = ( 9!× (10! / 3!) ×3! ) / 12! ",
+    "author": "Sapan Gajjar"
+  }
+  
