@@ -1,8 +1,9 @@
 {
-  "name": "isg32-dev",
-  "private": true,
+  "name": "isg32",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
+  "homepage":"https://isg32.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
