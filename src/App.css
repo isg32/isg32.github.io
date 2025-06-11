@@ -1,0 +1,84 @@
+#root {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+  position: relative;
+  min-height: calc(99vh - var(--header-height) - var(--footer-height));
+  max-width: calc(var(--main-width) + var(--gap) * 2);
+  margin: auto;
+}
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1em;
+  width: 100%;
+}
+
+.khara-button {
+  background: var(--tertiary);
+  border-radius: var(--radius);
+  margin: 8px;
+  padding: 6px;
+  transition: transform .1s;
+}
+
+.header img {
+  height: 3em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.header a {
+  color: var(--primary);
+  text-decoration: none;
+  font-size: 1.2em;
+  padding: 0.5em 0.25em;
+}
+
+span {
+  padding: 0 0.5em;
+  color: var(--primary);
+}
+
+.logo {
+  height: 6em;
+  padding: 1em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #a1ebffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.subtext {
+  color: #888;
+}
+.footer, .top-link {
+  font-size: 12px;
+  color: var(--secondary);
+}
