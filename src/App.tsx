@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import './App.css'; // Make sure this CSS file exists for your dark mode styles
 
 function getYear() {
