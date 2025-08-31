@@ -1,0 +1,88 @@
+@font-face {
+  font-family: 'NType82-Headline'; /* Name you'll use in CSS */
+  src: url('./assets/fonts/NType82-Headline.otf') format('otf');
+  font-weight: normal; /* Or specify other weights */
+  font-style: normal; /* Or specify styles like italic */
+}
+@font-face {
+  font-family: 'NType82'; /* Name you'll use in CSS */
+  src: url('./assets/fonts/NType82-Regular.otf') format('otf');
+  font-weight: normal; /* Or specify other weights */
+  font-style: normal; /* Or specify styles like italic */
+}
+@font-face {
+  font-family: 'nDot-JP'; /* Name you'll use in CSS */
+  src: url('./assets/fonts/Ndot77JPExtended.ttf') format('otf');
+  font-weight: normal; /* Or specify other weights */
+  font-style: normal; /* Or specify styles like italic */
+}
+
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  background-color: var(--background);
+  color: var(--text-color);
+  transition: background-color 0.3s, color 0.3s;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --primary: #242424;
+  --background: #f4f4f4;
+
+}
+
+body.dark-mode {
+  --primary: #f4f4f4; 
+  --background: #242424;
+  color: var(--primary); 
+  background-color: var(--background);
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 0.5;
+}
+
+button {
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  transition: border-color 0.25s;
+  background: none;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
