@@ -11,6 +11,11 @@ function App() {
 
   const projectsData = [
     {
+      "title": "Areax",
+      "link": "https://github.com/isg32/Areax",
+      "description": "Areax - A Basic PropertyEvaluator App Made by me for SIH2025, written in Flutter - uses OpenStreetMap Api to function."
+    },
+    {
       "title": "paid-detector",
       "link": "https://github.com/isg32-pavillion/paid-detector",
       "description": "My First Freelance Project - Basically there exists a portal that displays diffrent websites in an iframe, and this tool scrapes contents and determines if this.displayed website is relevent to us or not, if no - skip, if yes ring a bell and pause for human verification and data entry."
